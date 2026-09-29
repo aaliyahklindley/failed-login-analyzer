@@ -106,7 +106,6 @@ FLAGGED: alice 5 failures in 0:08:17
   <img width="900" alt="Failed Login Analyzer output" src="https://github.com/user-attachments/assets/a7c690b5-1f8c-467f-b07d-4f5c81c4d927" />
 </p>
 
-```
 
 ## What I Learned
 
