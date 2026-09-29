@@ -9,4 +9,4 @@ The script reads a log of login attempts line by line. Next it groups failed log
 python failed_login_analyzer.py
 
 ## What I learned
-This project taught me basic principles in Python and how to possibly flag bruteforce attacks. I learned how to create loops, strip certain characters from logs, convert the timestamps into readable data. After completing this project I feel much more comfortable trying my hand at different Python projects and just seeing what else I can create.
+This project taught me basic principles in Python and how to possibly flag brute-force attacks. I learned how to create loops, strip certain characters from logs, convert the timestamps into readable data. After completing this project I feel much more comfortable trying my hand at different Python projects and just seeing what else I can create.
